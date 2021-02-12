@@ -1,0 +1,3 @@
+1. Add a feature to actually just use the mouse and then have an interactive GUI where ou can just select the mode and fully play the game using a mouse.
+
+2. Make the screen bigger so that it fills the whole possible view perspective.
